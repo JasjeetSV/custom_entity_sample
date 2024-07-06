@@ -1,0 +1,11 @@
+entity.custom_entity_sample_type.collection:
+  title: 'Custom Entity Sample types'
+  description: 'Manage and CRUD actions on Custom Entity Sample type.'
+  parent: system.admin_structure
+  route_name: entity.custom_entity_sample_type.collection
+
+entity.custom_entity_sample.collection:
+  title: 'Custom Entity Samples'
+  description: 'List of custom entity samples.'
+  route_name: entity.custom_entity_sample.collection
+  parent: system.admin_content

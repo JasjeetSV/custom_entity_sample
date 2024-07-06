@@ -1,0 +1,11 @@
+custom_entity_sample.type_add:
+  title: 'Add custom entity sample type'
+  route_name: entity.custom_entity_sample_type.add_form
+  appears_on:
+    - entity.custom_entity_sample_type.collection
+
+custom_entity_sample.add_page:
+  title: 'Add custom entity sample'
+  route_name: entity.custom_entity_sample.add_page
+  appears_on:
+    - entity.custom_entity_sample.collection

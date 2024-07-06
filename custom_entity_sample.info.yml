@@ -1,0 +1,5 @@
+name: 'Custom Entity Sample'
+type: module
+description: 'This creates custom entity for CRUD operations'
+package: Other
+core_version_requirement: ^10 || ^11

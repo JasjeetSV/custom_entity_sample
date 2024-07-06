@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - custom_entity_sample
+id: custom_entity_sample_save_action
+label: 'Save custom entity samples'
+type: custom_entity_sample
+plugin: entity:save_action:custom_entity_sample
+configuration: {  }

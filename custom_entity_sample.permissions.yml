@@ -1,0 +1,12 @@
+administer custom_entity_sample types:
+  title: 'Administer custom entity sample types'
+  description: 'Maintain the types of custom entity sample entity.'
+  restrict access: true
+view custom_entity_sample:
+  title: 'View custom entity sample'
+edit custom_entity_sample:
+  title: 'Edit custom entity sample'
+delete custom_entity_sample:
+  title: 'Delete custom entity sample'
+create custom_entity_sample:
+  title: 'Create custom entity sample'

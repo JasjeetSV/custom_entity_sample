@@ -1,0 +1,12 @@
+custom_entity_sample.custom_entity_sample_type.*:
+  type: config_entity
+  label: 'Custom Entity Sample type config'
+  mapping:
+    id:
+      type: string
+      label: 'ID'
+    label:
+      type: label
+      label: 'Label'
+    uuid:
+      type: string
